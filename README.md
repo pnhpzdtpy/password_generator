@@ -27,3 +27,8 @@ A simple desktop application built with Python and Tkinter for generating, stori
 2. Run the app:
    python main.py
 
+# screenshots
+![starting page](resources/starting_page.png)
+![password list](resources/password_list.png)
+![generator](resources/generator.png)
+
